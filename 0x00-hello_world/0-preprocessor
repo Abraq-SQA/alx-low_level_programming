@@ -1,1 +1,2 @@
-Hello World
+#!/bin/bash
+gcc -E $CFILE > c
