@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Ommit some alphabet
+ * main - Omit some alphabets
  *
  * Return: Always (Success)
  */
@@ -15,9 +15,9 @@ int main(void)
 		{
 			putchar(c);
 		}
-
-		putchar('\n');
-
-		return (0);
 	}
+
+	putchar('\n');
+
+	return (0);
 }
