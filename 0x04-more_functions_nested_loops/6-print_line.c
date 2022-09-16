@@ -1,7 +1,7 @@
 include "main.h"
 
 /**
- * print_line - draws a straight line in the terminal
+ * print_line - function that draws a straight line
  * @n: lenght of line
  * Return: 0
  */
