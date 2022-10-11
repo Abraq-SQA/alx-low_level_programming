@@ -1,11 +1,11 @@
-#ifndef DOG_H
-#define DOG_H
+#ifndef DOG_H_FILE
+#define DOG_H_FILE
 
 /**
- * struct dog - A type describing a dog
- * @name: The name of the dog
- * @age: The age of the dog
- * @owner: The owner of the dog
+ * struct dog - structure definition of a dog
+ * @name: dog name
+ * @age: dog age
+ * @owner: Owner
  */
 
 struct dog
